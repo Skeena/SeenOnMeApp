@@ -1,0 +1,6 @@
+framework module Pods_SeenOnMe {
+  umbrella header "Pods-SeenOnMe-umbrella.h"
+
+  export *
+  module * { export * }
+}
